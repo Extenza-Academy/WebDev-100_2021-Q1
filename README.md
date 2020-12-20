@@ -1,6 +1,27 @@
+<!-- omit in toc -->
 # Web Development for Beginners
 
-## Extenza Academy `WebDev-100` course
+<span class="badge-buymeacoffee"><a href="https://buymeacoff.ee/devexperience" title="Donate to this project using Buy Me A Coffee"><img src="https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg" alt="Buy Me A Coffee donate button" /></a></span>
+<span class="badge-course-status"><img src="https://img.shields.io/badge/status-in%20progress-green" alt="Course status: in progress" /></span>
+<span class="badge-course-level"><img src="https://img.shields.io/badge/level-⭐%20▪%20▪%20▪-blue" alt="Level: 100 out of 400" /></span>
+
+<!-- omit in toc -->
+## Table of Contents
+- [Extenza Academy `WebDev-100` Course](#extenza-academy-webdev-100-course)
+- [Original Promo Video](#original-promo-video)
+- [Current Version of the Course](#current-version-of-the-course)
+- [Timeline](#timeline)
+- [Trainer](#trainer)
+  - [Vlad DX](#vlad-dx)
+- [Course Prerequisites](#course-prerequisites)
+- [Register](#register)
+- [Install](#install)
+- [Communication](#communication)
+- [How to Start?](#how-to-start)
+- [Course Capacity](#course-capacity)
+- [Code of Conduct](#code-of-conduct)
+
+## Extenza Academy `WebDev-100` Course
 
 Level: ⭐ ▪ ▪ ▪ (100 out of 400)
 
@@ -12,13 +33,13 @@ Level: ⭐ ▪ ▪ ▪ (100 out of 400)
 > 
 > Additional materials: © 2020 Vlad DX. All rights reserved.
 
-## Original promo video
+## Original Promo Video
 
 [![Promo video](./docs/img/promo-video.png)](https://youtube.com/watch?v=R1wrdtmBSII "Microsoft \"Web Dev For Beginners\" course promo video")
 
 > Click the image above for a video about the project and the folks who created it!
 
-## Current version of the course
+## Current Version of the Course
 
 Extenza Academy Web Development for Beginners course "WebDev-100" is mainly based on the materials from original course. However, there are some differences.
 
@@ -43,13 +64,13 @@ Course iterations:
   
   Dec 20, 2020 - Mar 13, 2021
 
-- TBD 
+- TBA (to be announced) 
 
 ## Trainer
 
 ### Vlad DX
 
-<!-- TODO: Add photo -->
+<img width="200" height="200" src="./docs/img/vlad-dx-200x200.jpg" style="margin: 10px 30px 20px 0; float: left;" />
 
 [LinkedIn Profile](https://www.linkedin.com/in/vladimirserykh)
 
@@ -57,11 +78,14 @@ Course iterations:
 - 🚩 Main focus: Software Architecture, APIs, integrations, user lifecycle, and problem-solving.
 - ☑ Prefer to work in self-organizing Scrum teams with DevOps practices.
 
+<br style="clear: left;">
+
 Has 12+ years in software development and 18+ years of working experience in IT.
+
 Fun fact: dealing with computers for about 28 years.
 
 
-## Course prerequisites
+## Course Prerequisites
 
 To take this course you need to have basic computer literacy and B1 level of English.
 
@@ -86,7 +110,7 @@ Please install the following software:
 
 ## Communication
 
-Join the Discord channels:
+Join all 3 Discord channels:
 
 - Community channel
   
@@ -100,7 +124,7 @@ Join the Discord channels:
   
   [Extenza Academy / webdev-100-chat](https://discord.gg/78Bpeaq3Vq)
 
-## How to start?
+## How to Start?
 
 1. Join the Google Classroom:
    
@@ -108,9 +132,9 @@ Join the Discord channels:
 
 2. Contact the Trainer on Discord channel [Extenza Academy / webdev-100-learn](https://discord.gg/bmTtfFkwup) by mentioning him:
    
-   Hi `@vlad.dev.experience`, I'd like to join a course.
+   > Hi `@vlad.dev.experience`, I'd like to join a course.
 
-## Course capacity
+## Course Capacity
 
 1 group of 4 people.
 
