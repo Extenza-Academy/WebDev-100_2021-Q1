@@ -30,7 +30,7 @@
 
 ## Extenza Academy `WebDev-100` Course
 
-Level: ⭐ ▪ ▪ ▪ (100 out of 400)
+Level: `⭐ ▪ ▪ ▪` (100 out of 400)
 
 > The course is based on the [microsoft / Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners/tree/5dbe7e8bd9576eb7cdc8bca359449ccd559635a8) course.
 > 
