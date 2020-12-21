@@ -133,10 +133,10 @@ Extenza Academy Web Development for Beginners course "WebDev-100" is mainly base
 
 Expectations for student that successfully finished the course:
 
-- [x] Acquired a hands-on experience with HTML, CSS, JavaScript,
-- [x] The Scurm methodology is practiced throughout the course,
-- [x] Practical Git skills are obtained,
-- [x] 5 educational projects are developed.
+- ☑ Acquired a hands-on experience with HTML, CSS, JavaScript,
+- ☑ The Scurm methodology is practiced throughout the course,
+- ☑ Practical Git skills are obtained,
+- ☑ 5 educational projects are developed.
 
 ## Trainer
 
@@ -224,7 +224,7 @@ Join all 3 Discord channels for communication:
 
 - Extenza Academy Web-100 2021-Q1
    - [x] Taken (M****)
-   - [x] Reserved (I****)
+   - [x] Taken (I****)
    - [x] Reserved (R****)
    - [ ] Available
 
