@@ -22,7 +22,6 @@
 - [Course requirements](#course-requirements)
 - [Course Prerequisites](#course-prerequisites)
   - [Register](#register)
-  - [Install](#install)
   - [Join](#join)
 - [How to Start?](#how-to-start)
 - [Course Capacity](#course-capacity)
@@ -178,16 +177,6 @@ Please register accounts in the following services:
 - [Discord](https://discord.com)
 - [Google](https://accounts.google.com)
 
-### Install
-
-Please install the following software:
-
-- [Visual Studio Code](https://code.visualstudio.com/download)
-- [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html)
-- [Issues Hub](https://chrome.google.com/webstore/detail/issues-hub/gjpcbkmnpfnpmghmiohfcbhckigmloic) Chrome extension
-- [Git](https://git-scm.com/downloads)
-- [SourceTree](https://www.sourcetreeapp.com)
-- [GitHub Desktop](https://desktop.github.com)
 
 ### Join
 
